@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fG7w5lImQBgRbrVi/zGaOqY/Cx3D/DLY5ZgIhMEiVPjL31FvpJ7IeKGz74a1gdYWIZKl7BZ0KnGGf5YAw9vupw==",
+  "success": true,
+  "projectFilePath": "C:\\ProjetoApiSecrets\\src\\Projeto.Domain\\Projeto.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flavia Almeida\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

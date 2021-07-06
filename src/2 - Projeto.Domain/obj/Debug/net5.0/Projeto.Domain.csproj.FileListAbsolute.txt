@@ -1,0 +1,12 @@
+C:\ProjetoApiSecrets\src\Projeto.Domain\obj\Debug\net5.0\Projeto.Domain.csproj.AssemblyReference.cache
+C:\ProjetoApiSecrets\src\Projeto.Domain\obj\Debug\net5.0\Projeto.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoApiSecrets\src\Projeto.Domain\obj\Debug\net5.0\Projeto.Domain.AssemblyInfoInputs.cache
+C:\ProjetoApiSecrets\src\Projeto.Domain\obj\Debug\net5.0\Projeto.Domain.AssemblyInfo.cs
+C:\ProjetoApiSecrets\src\Projeto.Domain\obj\Debug\net5.0\Projeto.Domain.csproj.CoreCompileInputs.cache
+C:\ProjetoApiSecrets\src\Projeto.Domain\bin\Debug\net5.0\Projeto.Domain.deps.json
+C:\ProjetoApiSecrets\src\Projeto.Domain\bin\Debug\net5.0\Projeto.Domain.dll
+C:\ProjetoApiSecrets\src\Projeto.Domain\bin\Debug\net5.0\ref\Projeto.Domain.dll
+C:\ProjetoApiSecrets\src\Projeto.Domain\bin\Debug\net5.0\Projeto.Domain.pdb
+C:\ProjetoApiSecrets\src\Projeto.Domain\obj\Debug\net5.0\Projeto.Domain.dll
+C:\ProjetoApiSecrets\src\Projeto.Domain\obj\Debug\net5.0\ref\Projeto.Domain.dll
+C:\ProjetoApiSecrets\src\Projeto.Domain\obj\Debug\net5.0\Projeto.Domain.pdb
